@@ -1,4 +1,4 @@
-# Calculadora de duros (Streamlit)
+# Calculadora de juros (Streamlit)
 
 Aplicação simples desenvolvida em **Python + Streamlit** para calcular **juros em valor absoluto e percentual**, a partir de um valor inicial e um valor final.
 
